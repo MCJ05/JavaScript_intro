@@ -1,4 +1,4 @@
-
+// Lösning på uppgift 7 av Moa Jönsson, 2026
 "use strict";
 
 // Array med 6 tal
@@ -15,9 +15,3 @@ function calculateSum(array) {
 
 let totalSum = calculateSum(number);
 console.log("Summan är: " + totalSum);
-
-// Loop
-for(let i = 0; i < number.length; i++) {
-    if(i !==0) {
-        console.log (number[i])} 
-}
